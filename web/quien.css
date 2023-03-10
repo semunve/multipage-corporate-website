@@ -1,0 +1,47 @@
+
+body{
+    background-color: azure;
+}
+
+
+
+ul{
+    background-color: burlywood;
+    color: #FFF;
+    padding: 5px;
+    border-radius: 20px;
+    text-decoration: none;
+    cursor: pointer;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+
+a{
+    color: aliceblue;
+    font-size: 20px;
+    text-decoration: none;
+    color:whitesmoke;
+    margin: 10px;
+}
+.flecha{
+    
+	width: 50px;
+    height: 50px;
+	position: fixed;
+	bottom: 10px;
+	right: 40px;
+	 opacity: 100%;
+ 
+}
+
+.fc{
+    width: 50px;
+    height: 50px;
+    opacity: 100%;
+}
+footer{
+    color:rgb(186, 244, 186);
+    background-color: darkgray;
+}
